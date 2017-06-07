@@ -4,7 +4,7 @@ A repository to ask [@practicingdev](https://twitter.com/practicingdev) anything
 
 I'm the author of [Programming Beyond Practices](https://www.amazon.com/Programming-Beyond-Practices-More-Monkey/dp/1491943823/ref=sr_1_1?ie=UTF8&qid=1496846875&sr=8-1&keywords=programming+beyond+practices), a book which focuses on the non-code aspects of software development at the intersection of technology, business, and human interests.
 
-I also built [Practicing Ruby](http://practicingruby.com), and was the original author for [PrawnPDF](https://prawnpdf.org) (which I'm no longer working on, but was lead maintainer for years and years)
+I also built [Practicing Ruby](http://practicingruby.com), and was the original author for [PrawnPDF](http://prawnpdf.org) (which I'm no longer working on, but was lead maintainer for years and years)
 
 ### Ask a question
 
