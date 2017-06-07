@@ -1,4 +1,4 @@
-# holman/ama
+# practicingdev/ama
 
 A repository to ask [@practicingdev](https://twitter.com/practicingdev) anything.
 
@@ -32,4 +32,4 @@ Twitter.
 
 ### Forking
 
-This repository was forked from [holman/ama](https://github.com/holman/ama)
+This repository was forked from [holman/ama](https://github.com/holman/ama). If you'd like to create your own, fork that repo instead of this one!
